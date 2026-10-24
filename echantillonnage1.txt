@@ -1,0 +1,1156 @@
+ECOLE DES HAUTES ETUDES COMMERCIALES 
+
+Module: Statistique de Gestion AnnéeAcadémique: 2013/2014 
+Niveau: 1ère année Master (TC) Enseignant: KHERRI Abdenacer 
+Groupes:1, 2, 7 et8 Siteweb: www.sg-ehec.jimdo.com 
+
+
+Support pédagogique de cours N° 02 : 
+
+Echantillonnage 
+
+
+Planducours: 
+1. Introduction. 
+2. Terminologie. 
+3. Echantillonnage. 
+3.1. Définition. 
+3.2. Méthodes d’échantillonnage. 
+3.2.1. Méthodes probabilistes (Aléatoires). 
+• 
+Echantillonnage aléatoire simple. 
+• 
+Echantillonnage aléatoire stratifié. 
+• 
+Echantillonnage aléatoire par grappes. 
+• 
+Echantillonnage aléatoire systématique. 
+3.2.2. Méthodes non probabilistes (Raisonnées ou Empiriques) 
+• 
+Echantillonnage par quotas. 
+• 
+Echantillonnage de convenance (de commodité). 
+• 
+Echantillonnage selon le jugement. 
+• 
+Echantillonnage boule de neige. 
+4. Distribution d’échantillonnage. 
+4.1. Distribution d’échantillonnage de la moyenne. 
+4.2. Distribution d’échantillonnage de la variance. 
+4.3. Distribution d’échantillonnage de la fréquence. 
+4.4. Distribution d’échantillonnage de la différence des moyennes. 
+5. Synthèse. 
+
+[ Page 1 sur 20 ] 
+
+
+1. Introduction: 
+L'étude de propriétés caractéristiques d'un ensemble, quand on ne dispose pas encore de 
+données, nécessite d'examiner, d'observer des éléments de cet ensemble. La manière de 
+recueillir ces données fait l'objet d'une théorie mathématique appelée théorie des sondages ou 
+encore théorie de l'échantillonnage ( en anglais : sampling theory ), Cette théorie concerne 
+l'optimisation de la collecte des données selon divers critères et répond à certaines 
+interrogations sur la façon de procéder à cette collecte en rapport avec l'information disponible 
+et l'effort d'échantillonnage consenti. 
+
+2. Terminologie: 
+Terme Définition 
+Cadred’échantillonnage Une liste d’élément à partir desquels l’échantillon est sélectionné. 
+Distribution 
+d’échantillonnage 
+Distribution de probabilité composée de toutes les valeurs possibles d’une 
+statistique d’échantillon. 
+Echantillon 
+Un sous ensemble de la population considérée, le nombre d'individus dans 
+l’échantillon est la taille de l'échantillon. 
+Echantillonnage 
+La sélection d’une partie dans un tout (la sélection d’une partie dans la 
+population), l’échantillon sélectionné doit être représentatif de la population. 
+Méthodes 
+d’échantillonnage 
+Ensemble des méthodes permettant de réaliser un sondage (de prélever un 
+échantillon de données) au sein d’une population, de manière à reproduire un 
+échantillon aussi représentatif que possible de cette population. 
+Paramètre 
+Caractéristique numérique d’une population telle que la moyenne de la 
+population "μ", l’écart type de la population "σ" et la proportion de la 
+population "p". 
+Population 
+Ensemble que l'on observe et qui sera soumis à une analyse statistique, chaque 
+élément de cet ensemble est un individu ou unité statistique. 
+Populationfinie Une population qui consiste en un nombre fini d'éléments. 
+Populationinfinie 
+Une population est infinie s’il n'y a pas de limite au nombre d'éléments qu'il 
+contient. 
+Populationhomogène Une population avec des éléments qui possèdent les mêmes caractéristiques. 
+Populationnonhomogène 
+Une population avec des éléments qui ne possèdent pas les mêmes 
+caractéristiques. 
+Tirageexhaustif Tirage sans remise. 
+Tiragenonexhaustif Tirage avec remise. 
+Populationéchantillonnée La population à partir de laquelle l’échantillon est constitué. 
+Théoried’échantillonnage 
+Etude des liaisons existant entre une population et les échantillons de cette 
+population. 
+
+[ Page 2 sur 20 ] 
+
+
+3. Echantillonnage: 
+Définition(1):L’échantillonnage est le procédé utilisé pour choisir un échantillon et qui 
+est à la base de l'enquête par sondage1. 
+
+Définition(2):l’échantillonnage est la phase qui consiste à sélectionner les individus que 
+l’on souhaite interroger au sein de la population de base.2 
+
+Prenons tous les échantillons possibles de taille n tirés d’une population donnée. Pour 
+chaque échantillon, on peut calculer une statistique (moyenne, écart-type, variance, etc...) qui 
+variera avec l’échantillon. Pour tous les échantillons, on obtient alors une distribution de la 
+statistique que l’on nomme la distribution d’échantillonnage. Pour la validité des résultats, il 
+est important que les échantillons soient représentatifs de la population concernée. 
+
+Combien d’échantillons de néléments peuvent être isolés d’une population de Néléments ? 
+
+On distingue entre deux cas de tirage : 
+
+• 
+Tirage exhaustif (sans remise) : nombre d’échantillons est  
+• 
+Tirage non exhaustif (avec remise) : nombre d’échantillons est  
+3.1. Méthodesd’échantillonnage: 
+L’échantillonnage peut se faire avec ou sans remise et une population peut être considérée 
+comme finie ou infinie. Une population finie dans laquelle on procède à un échantillonnage 
+avec remise peut être théoriquement considérée comme infinie. 
+Dans la pratique, il en va de même pour des populations finies mais de grandes tailles. 
+Pour chaque distribution d’échantillonnage, on peut calculer une moyenne, un écart type, une 
+variance…etc. 
+
+1. http://www.larousse.fr/dictionnaires/francais/echantillonnage 
+2. http://www.definitions-marketing.com/Definition-Echantillonnage-etude 
+[ Page 3 sur 20 ] 
+
+
+SchémaN°01:Les méthodes d’échantillonnage 
+Méthodes d’échantillonnage 
+
+
+Méthode probabilistes Méthode non probabilistes 
+( Aléatoires ) ( Raisonnées ou Empiriques ) 
+
+
+Echantillonnage aléatoire simple Echantillonnage par quota 
+
+Echantillonnage stratifié Echantillonnage de convenance 
+
+Echantillonnage par grappes Echantillonnage selon le jugement 
+
+Echantillonnage systématique Echantillonnage de boule de neige 
+
+Source:élaboré par l’enseignant 
+SchémaN°02:Les méthodes d’échantillonnage 
+
+الطبعة الأولى، دار ،(SPSS ) مب ادئ الإحصاء و الاحتمالات و معالجتها باستخدام برنامج 
+Population 
+Finie Infinie 
+Non homogène Homogène 
+Aléatoire 
+simple 
+Aléatoire 
+stratifié 
+Aléatoire 
+par grappes 
+Aléatoire 
+systématique 
+Quota Convenance Jugement Boule 
+de neige 
+Homogène Non homogène 
+محمد حسين محمد رشيد (القادر ي) و منى عطا الله الشويلات، 
+
+:
+
+المصدر 
+
+. 2012 ، الصفحة 28 
+
+صفاء للنشر و التوزيع، عمان، الأردن، 
+
+[ Page 4 sur 20 ] 
+
+
+3.1.1. Méthodesprobabilistes(Aléatoires): 
+L’échantillonnage probabiliste repose sur un choix d’unités dans la population fait au 
+hasard, ce n’est pas l’enquêteur qui choisit les unités, c’est la méthode utilisée pour la sélection 
+qui le fait. Une des caractéristiques de cette méthode est que chaque unité de la population a 
+une probabilité mesurable d’être choisie. 
+
+L’avantage de la méthode d’échantillonnage probabiliste est qu’elle permet de généraliser 
+les résultats de l’échantillon à l’ensemble de la population en s’appuyant sur une théorie 
+statistique reconnue. 
+
+Son seul inconvénient est qu’il faut posséder une liste de toutes les unités formant la 
+population avant de procéder à la sélection de l’échantillon. 
+
+Voici les quatre types d’échantillonnage probabiliste que l’on peut effectuer : 
+
+3.1.1.1. Echantillonnagealéatoiresimple: 
+Un échantillon aléatoire simple est un échantillon sélectionnée de manière à ce que chaque 
+échantillon possible de taille "n" ait la même probabilité d’être sélectionné, On prélève dans la 
+population des individus au hasard, tous les individus ont la même probabilité d’être prélevés, 
+et ils le sont indépendamment les uns des autres. 
+
+3.1.1.2. Echantillonnagealéatoirestratifié: 
+On suppose que la population soit stratifiée, constituée de sous-populations homogènes, 
+les strates. (ex : stratification par tranche d’age). Dans chaque strate, on fait un échantillonnage 
+aléatoire simple, de taille proportionnelle à la taille de strate dans la population (échantillon 
+représentatif). Les individus de la population n’ont pas tous la même probabilité d’être tirés. 
+Nécessite une homogénéité des strates. 
+
+Le chercheur divise la population en sous-groupes distincts et homogènes (strates) à partir 
+desquels il sélectionnera un échantillon aléatoire simple. 
+Étapes : 
+
+1. choisir une variable de stratification (ex : tranche d’age). 
+2. Sélectionner un échantillon aléatoire dans chaque strate. 
+[ Page 5 sur 20 ] 
+
+
+Population Echantillon 
+
+(N) (n) 
+Strate 4 
+Strate 3 
+Strate 2 
+Strate 1 
+n3 
+n2 
+n1 
+n4 
+Echantillon final (n) =n1 +n2 +n3+n4 
+
+Exemple: 
+
+Supposons que 60% des étudiants de l’école HEC sont des filles et 40% des garçons, pour 
+former un échantillon de 120 étudiants en respectant ces strates, on devrait choisir au hasard 
+60% x 120 = 72 filles et 40% x 120 = 48 garçons. 
+
+Avantagesetdésavantagesdelaméthode: 
+
+L'échantillonnage stratifié a l'avantage d'assurer une bonne représentation des différentes 
+strates de la population dans l’échantillon. Il permet aussi d’obtenir des estimations pour 
+chacune des strates de la population. Toutefois, pour utiliser cette méthode il faut avoir des 
+renseignements sur la répartition des strates dans la population. 
+
+[ Page 6 sur 20 ] 
+
+
+3.1.1.3. Echantillonnagealéatoirepargrappe: 
+On tire au hasard des grappes ou familles d’individus, et on examine tous les individus de 
+la grappe (ex: on tire des immeubles puis on interroge tous les habitants). La méthode est 
+d’autant meilleure que les grappes se ressemblent et que les individus d’une même grappe sont 
+différents, contrairement aux strates. 
+
+Le chercheur divise la population en sous-groupes appelés « grappes ». Les grappes ont le 
+même profil, la variance d’une grappe à l’autre étant faible. Il sélectionne par la suite un 
+échantillon aléatoire de grappes et non pas un échantillon aléatoire à l’intérieur de chaque 
+grappe. 
+
+Population Echantillon 
+
+(N) (n) 
+Grappe 
+Grappe 2 
+n1Grappe 2 
+Grappe 3 
+Grappe 4 
+Grappe 5 
+Grappe 6 
+Grappe 7 
+Grappe 8 
+Grappe 5 
+n5 
+Grappe 8 
+n8 
+Echantillon final (n) = n1 + n5 + n8 
+
+Exemple: 
+
+Les étudiants de première année Master à HEC sont répartis en 11 groupes, les groupes 
+sont numérotés de 1 à 11. Supposons que l’on obtienne les nombres 2, 5, 7 et 10, tous les 
+étudiants de ces 4 groupes feront partie de l’échantillon. 
+
+[ Page 7 sur 20 ] 
+
+
+Avantagesetdésavantagesdelaméthode: 
+
+L'avantage de cette méthode par rapport aux précédentes est qu'elle ne requiert pas au 
+préalable la liste de la population, seule la liste des unités pour les grappes pigées est 
+nécessaire. Un désavantage de ce type d'échantillonnage est qu'il produit des estimations 
+habituellement moins précises que l’échantillonnage aléatoire simple parce que des unités 
+appartenant à une même grappe ont tendance à présenter des caractéristiques semblables. Cette 
+perte de précision peut être compensée par une augmentation de la taille de l’échantillon. 
+
+3.1.1.4. Echantillonnagealéatoiresystématique: 
+Dans certaines situations, spécialement lorsque les populations sont importantes, il est 
+coûteux (en temps) de sélectionner un échantillon aléatoire simple en trouvant tout d’abord un 
+nombre aléatoire et ensuite en cherchant dans la liste de la population l’élément correspondant. 
+Une alternative de l’échantillonnage aléatoire simple est l’échantillonnage systématique. Par 
+exemple, si l’on souhaite sélectionner un échantillon de taille 50 parmi une population 
+contenant 5000 éléments, cela revient à sélectionner un élément tous les (5000/50) = 100 
+éléments de la population. Constituer un échantillon systématique dans ce cas consiste à 
+sélectionner aléatoirement un élément parmi les 100 premiers de la liste de la population. Les 
+autres éléments de l’échantillon sont identifiés de la façon suivante : le second élément 
+sélectionné correspond au 100e élément qui suit le premier élément sélectionné dans la liste de 
+la population, le troisième élément sélectionné correspond au 100e élément qui suit le deuxième 
+élément sélectionné dans la liste de la population, et ainsi de suite. En fait, l’échantillon de taille 
+50 est identifié en se déplaçant systématiquement dans la population et en identifiant les 100e, 
+200e, 300e …etc. éléments qui suivent le premier élément choisi aléatoirement. L’échantillon de 
+taille 50 est généralement plus facile à identifier de cette manière qu’en utilisant 
+l’échantillonnage aléatoire simple. Puisque le premier élément sélectionné l’est aléatoirement, 
+un échantillon systématique est généralement supposé avoir les propriétés d’un échantillon 
+aléatoire simple, cette hypothèse est particulièrement appropriée lorsque la liste de la 
+population est une énumération aléatoire des éléments de la population1. 
+
+1. Anderson, Sweeney et Williams, Statistique pour l’économie et la gestion, édition De Boeck, Bruxelles, Belgique, 2010, P364. 
+[ Page 8 sur 20 ] 
+
+
+3.1.2. Méthodesnonprobabilistes(Raisonnéesouempirique): 
+L'échantillonnage non probabiliste repose sur un choix arbitraire des unités, c’est 
+l’enquêteur qui choisit les unités et non le hasard. En ce sens, il serait donc aventureux de 
+généraliser les résultats obtenus pour l’échantillon à toute la population. Malgré cela, ces 
+méthodes sont souvent utilisées dans certaines disciplines. En voici quelques-unes : 
+
+3.1.2.1. Echantillonnageparquota: 
+Lorsque le chercheur veut reproduire les caractéristiques d’une population (ex. âge, sexe, 
+revenus, etc.) dans son échantillon. 
+
+3.1.2.2. Echantillonnagedeconvenance(decommodité): 
+Cas où les unités d’échantillonnage sont faciles à rejoindre, disponibles et généralement 
+facile à convaincre. 
+
+3.1.2.3. Echantillonnageselonlejugement: 
+Le chercheur juge que l’échantillon va lui permettre d’atteindre les objectifs de la 
+recherche. 
+
+3.1.2.4. Echantillonnagebouledeneige: 
+Utile dans le cas de la rareté des unités d’échantillonnage ou de l’absence d’un cadre 
+d’échantillonnage valide. On demande à un répondant de nous référer à un autre qui présente 
+les mêmes caractéristiques que les siennes, et ainsi de suite… 
+
+[ Page 9 sur 20 ] 
+
+
+4. Distributiond’échantillonnage: 
+La distribution d’échantillonnage est l’étude de la de probabilité de l’échantillon en 
+fonction de la distribution de la variable parente lorsque la taille de l’échantillon augmente. 
+
+Pour résoudre les problèmes d’estimation de paramètres inconnus, il faut tout d’abord 
+étudier les distributions d’échantillonnage, c’est à dire la loi de probabilité suivie par 
+l’estimateur. 
+
+Considérons tous les échantillons possibles de taille n extraits d’une population de taille N, 
+de moyenne μ, de variance σ2 , …etc. Pour chaque échantillon, il est possible de calculer les 
+paramètres statistiques , , …etc qui varient d’un échantillon à l’autre. Chaque paramètre 
+possédera ainsi une distribution d’échantillonnage au même titre que la variable aléatoire X. 
+
+On utilise souvent : 
+
+Population Echantillon 
+Distribution 
+d’échantillonnage 
+des moyennes 
+Distribution 
+d’échantillonnage 
+des variances 
+Taille N n / / 
+Moyenne 
+̅ 
+Ecart-type 
+Variance  
+ 
+ 
+ 
+Proportion 
+/ / 
+
+4.1. Distributiond’échantillonnagedesmoyennes: 
+Soit une population de taille N, on désigne par μet σla moyenne et l’écart-type de cette 
+population respectivement. On extrait de la population une série d’échantillons de taille n, 
+chacun de ces échantillons a une moyenne , les différentes moyennes obtenues constituent une 
+distribution d’échantillonnage de moyenne 
+, on désigne par  
+et  
+la moyenne et l’écarttype 
+de la distribution d’échantillonnage de la moyenne. 
+
+[ Page 10 sur 20 ] 
+
+
+On a: 
+√
+ 
+ 
+
+
+Si le tirage est exhaustif (sans remise) :  
+= 
+
+
+ 
+
+
+Dans le cas où la population est infinie ou le tirage est non exhaustif (avec remise) :  
+= 
+
+
+√ 
+
+
+Remarques1 : 
+
+• 
+Si nest petit devant N, la distinction entre exhaustivité et non exhaustivité est sans objet 
+ 
+
+
+car 
+
+ 
+≈ 
+
+
+• 
+Si la taille des échantillons est assez grande (en pratique 
+≥ 
+30), la distribution 
+d’échantillonnage de la moyenne approche la distribution normale quelle que soit la 
+distribution de la population. 
+• 
+Si la population est normalement distribuée, la distribution d’échantillonnage de la 
+moyenne est une loi normale quelle que soit la valeur nde la taille des échantillons. 
+Exemplecorrigé:[ exemple pour but de confirmer les formules précédentes ] 
+On a une population finie composée de 3 éléments, 
+
+" 
+= 
+#,,%& 
+
+
+-Calculer la moyenne et l’écart-type de cette population. 
+
+Réponse : 
+
+ 
+= 
+**% 
+
+
+On sait que = 
+Σ() 
+( 
+= 
+%+=
+
+% 
+
+
+ 
+
+
+(() 
+
+
+(
+
+Et on sait aussi que 
+= 
+√ 
+et que  
+= 
+Σ() 
+= 
+Σ() 
+− 
+
+
+ 
+
+
+= 
+
+
+Donc : =Σ() 
+( 
+−=*/*0 
+−/ 
+=/%−/ 
+=/ 
+
+
+% 
+%% 
+
+
+=1 
+=2
+2
+
+3 
+
+
+Résultats finaux : = 
+et 
+= 
+
+% 
+
+
+1. KHALDI Khaled, Méthodes statistiques (rappel de cours et exercices corrigés), 6ème édition, OPU, Alger, Algérie, 2010, P76. 
+[ Page 11 sur 20 ] 
+
+On va effectuer des prélèvements des échantillons de taille (= 
+), on fait le 
+prélèvement dans les deux cas (tirage exhaustif et tirage non exhaustif). 
+
+Cas1(Tiragenonexhaustif/tirageavecremise): 
+
+-Quelle est le nombre des échantillons qui peuvent être prélevés à partir de cette 
+
+population ? 
+-Effectuez le prélèvement de ces échantillons. 
+-Etablir une distribution d’échantillonnage des moyennes. 
+-Calculez la moyenne de la distribution d’échantillonnage des moyenne  
+. 
+-Calculez l’écart-type de la distribution d’échantillonnage des moyenne  
+. 
+
+-Peut-on nous confirmer les deux formules suivantes 
+= 
+et  
+= 
+√
+ 
+? 
+
+
+Réponse : 
+
+
+-Parce que le tirage est avec remise donc le nombre des échantillons possible à être prélevés est une 
+liste n éléments pris parmi N éléments c-à-d = 
+%=0 
+-Les échantillons sont les suivants : 
+
+, 
+, 
+,%4=5 
+, 
+, 
+,% 
+6
+(%, 
+)(%, 
+)(%, 
+%)
+
+-La distribution d’échantillonnage des moyennes est la suivante : 
+
+()(, 
+I)()
+78 
+9:;<:=>;:? 
+9@éBℎ8;:DD?8EF 
+9F 
+G?HFF 
+= 
+5(, 
+I)()(, 
+I)6
+()(, 
+I)(%)
+
+-La moyenne de la distribution d’échantillonnage des moyennes : 
+
+
+=
+Σ(=(=
+J 
+0 
+== 
+
+
+
+-L’écart-type de la distribution d’échantillonnage des moyennes : 
+
+
+
+Σ(K( 
+%0 
+%0−%+ 
+% 
+
+
+= 
+−= 
+0 
+−/ 
+= 
+0 
+=
+0
+=
+% 
+
+
+
+ 
+= 
+1L
+2 
+= 
+2
+13 
+
+
+
+-Confirmation :
+ 
+== 
+formule confirmée 
+
+ 
+= 
+√
+ 
+= 
+√
+
+32 
+= 
+13 
+formule confirmée 
+
+
+[ Page 12 sur 20 ] 
+
+
+Cas2(Tirageexhaustif/tiragesansremise): 
+
+-Quelle est le nombre des échantillons qui peuvent être prélevés à partir de cette 
+
+population ? 
+-Effectuez le prélèvement de ces échantillons. 
+-Etablir une distribution d’échantillonnage des moyennes. 
+-Calculez la moyenne de la distribution d’échantillonnage des moyenne  
+. 
+-Calculez l’écart-type de la distribution d’échantillonnage des moyenne  
+. 
+
+-Peut-on nous confirmer les deux formules suivantes 
+et  
+= 
+√
+ 
+? 
+
+
+Réponse : 
+
+
+-Parce que le tirage est sans remise donc le nombre des échantillons possible à être prélevés est une 
+
+combinaison de n éléments pris parmi N éléments c-à-d NO= 
+O! 
+=Q=3
+
+!(O)! 
+
+
+
+-Les échantillons sont les suivants : 
+
+4 
+= 
+#(, 
+)(, 
+%)(, 
+%)& 
+
+
+-La distribution d’échantillonnage des moyennes est la suivante : 
+
+78 
+9:;<:=>;:? 
+9@éBℎ8;:DD?8EF 
+9F 
+G?HFF 
+= 
+#(, 
+I)()(, 
+I)& 
+
+
+-La moyenne de la distribution d’échantillonnage des moyennes :
+
+Σ(= 
+( 
++
+
+==
+
+ 
+%
+== 
+
+
+
+-L’écart-type de la distribution d’échantillonnage des moyennes : 
+
+
+
+Σ(K( 
+,I 
+,I− 
+R,I 
+
+
+= 
+−= 
+% 
+−/ 
+= 
+% 
+=
+%
+=
++ 
+
+
+
+ 
+= 
+1L
+2 
+= 
+2
+16 
+
+
+
+-Confirmation :
+ 
+== 
+formule confirmée 
+
+√
+ 
+ 
+
+32
+
+
+ 
+= 
+ 
+= 
+√ 
+= 
+
+31 
+= 
+
+61 
+formule confirmé 
+
+
+[ Page 13 sur 20 ] 
+
+
+Exemplesàcorriger: 
+Exemple(01):[Distribution d’échantillonnage de la moyenne] 
+On choisit au hasard sans remise six nombres parmi les nombres entiers de 1à 9, chacun de 
+
+
+ces nombres a la même probabilité d’être choisi1. 
+
+• 
+Quel est le type d’échantillonnage dans ce cas ? 
+• 
+Quel est le type de tirage dans ce cas ? 
+• 
+Quel est le nombre des échantillons possible d’être prélever de la population mère ? 
+• 
+Calculer la moyenne et l’écart-type de la distribution d’échantillonnage des moyennes. 
+• 
+Réponse: 
+…………………………………………………………………………………………………… 
+………...………………………………………………………………………………………... 
+…………………………………………………………………………………………...……… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+……………………...…………………………………………………………………………… 
+…………...……………………………………………………………………………………… 
+…...……………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+………………………………………………...………………………………………………… 
+……………………………………...…………………………………………………………… 
+……………………………...…………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………...……………………… 
+………………………………………………………………...………………………………… 
+………………………………………………………...………………………………………… 
+…………………………………………………………………………………...……………… 
+………………………………………………………………………...………………………… 
+
+1. KHALDI Khaled, Méthodes statistiques (rappel de cours et exercices corrigés), op.cit, P84. 
+[ Page 14 sur 20 ] 
+
+Exemple(02):[Distribution d’échantillonnage de la moyenne] 
+On choisit au hasard avec remise six nombres parmi les nombres entiers de 1à 9, chacun de 
+ces nombres a la même probabilité d’être choisi1. 
+
+• 
+Quel est le type d’échantillonnage dans ce cas ? 
+• 
+Quel est le type de tirage dans ce cas ? 
+• 
+Quel est le nombre des échantillons possible d’être prélever de la population mère ? 
+• 
+Calculer la moyenne et l’écart-type de la distribution d’échantillonnage des moyennes. 
+• 
+Réponse: 
+…………………………………………………………………………………………………… 
+………...………………………………………………………………………………………... 
+…………………………………………………………………………………………...……… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+……………………...…………………………………………………………………………… 
+…………...……………………………………………………………………………………… 
+…...……………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+………………………………………………...………………………………………………… 
+……………………………………...…………………………………………………………… 
+……………………………...…………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………...……………………… 
+………………………………………………………………...………………………………… 
+………………………………………………………...………………………………………… 
+…………………………………………………………………………………...……………… 
+………………………………………………………………………...………………………… 
+………………………………………………………………...……………………………… 
+
+1. KHALDI Khaled, Méthodes statistiques (rappel de cours et exercices corrigés), op.cit, P76. 
+[ Page 15 sur 20 ] 
+
+Exemple(03):[Distribution d’échantillonnage de la moyenne] 
+La moyenne des notes d’une épreuve de statistique de 300étudiants est égale à 9,8et l’écarttype 
+est de 3,68. Trouver la probabilité qu’un échantillon aléatoire de notes de 40 étudiants 
+extrait de l’ensemble ait une moyenne : 
+
+1. Comprise entre 10et 13. 
+
+2. Inférieure à 10. 
+NB : Trouver la probabilité dans les deux cas (tirage exhaustif et non exhaustif) 
+• 
+Réponse: 
+…………………………………………………………………………………………………… 
+………...………………………………………………………………………………………... 
+…………………………………………………………………………………………...……… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+……………………...…………………………………………………………………………… 
+…………...……………………………………………………………………………………… 
+…...……………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+………………………………………………...………………………………………………… 
+……………………………………...…………………………………………………………… 
+……………………………...…………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………...……………………… 
+………………………………………………………………...………………………………… 
+………………………………………………………...………………………………………… 
+…………………………………………………………………………………...……………… 
+………………………………………………………………………...………………………… 
+………………………………………………………………...……………………………… 
+
+[ Page 16 sur 20 ] 
+
+
+4.2. Distributiond’échantillonnagedesvariances: 
+V
+
+Chaque échantillon de taille nde la population à une variance T=VUΣWKU( 
+W− 
+̅) 
+, ces 
+variances sont des valeurs observées d’une même variable aléatoire. 
+
+T=U 
+V
+
+V 
+ΣWKU(LW 
+− 
+L) 
+On a: 
+X(T) 
+= 
+VU
+
+V 
+ 
+
+
+Y(T) 
+= 
+−1 
+Z(−1)[ 
+−(−3)[\
+
+O 
+
+
+4.3. Distributiond’échantillonnagedesfréquences: 
+La probabilité de la réalisation d’un évènement est supposée être égale à p. on considère 
+les échantillons de taille n extraits, avec remise, d’une population de taille N. a chaque 
+échantillon extrait correspond une fréquence ]V 
+de réalisation de l’évènement considéré. 
+On a: 
+Si le tirage est avec remise : 
+
+X(]V) 
+= 
+(1 
+− 
+) 
+
+
+Y(]V) 
+= 
+
+
+ 
+
+
+Si le tirage est sans remise : 
+
+X(]V) 
+= 
+(1−) 
+_− 
+
+
+Y(]V) 
+= 
+.
+
+ 
+_−1 
+
+
+Exemples: 
+Exemple(01):[Distribution d’échantillonnage de la fréquence] 
+
+Un fabricant de clous a déterminé que 3%des clous produits sont défectueux. On étudie 
+un échantillon aléatoire de 300 clous. Quelle est la probabilité que la proportion de clous 
+défectueux dans l’échantillon soit comprise entre 2%et 3,5%? 
+
+[ Page 17 sur 20 ] 
+
+
+• 
+Réponse: 
+…………………………………………………………………………………………………… 
+………...………………………………………………………………………………………... 
+…………………………………………………………………………………………...……… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+……………………...…………………………………………………………………………… 
+…………...……………………………………………………………………………………… 
+…...……………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+………………………………………………...………………………………………………… 
+……………………………………...…………………………………………………………… 
+……………………………...…………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………...……………………… 
+………………………………………………………………...………………………………… 
+………………………………………………………...………………………………………… 
+
+4.4. Distributiond’échantillonnagedesdifférencesdesmoyennes: 
+On considère 2 populations P1 et P2 de moyennes U 
+et  
+et de variances U 
+et  
+. On 
+s’intéresse à la différence U 
+-. 
+on a: 
+
+`̅a`̅ 
+= 
+U 
+− 
+
+
+ 
+
+
+`
+̅a`̅ 
+= 
+`
+̅a 
++ 
+`
+̅ 
+
+
+`̅a`̅ 
+= 
+`
+̅a 
++ 
+`
+̅ 
+
+
+[ Page 18 sur 20 ] 
+
+
+Exemple(01):[Distribution d’échantillonnage des différences des moyennes] 
+
+La résistance à la rupture du hêtre et du bouleau sont respectivement de 4500 kg et de 
+4000kgavec des écarts-type respectifs de 200kget 300kg. Si l’on teste des échantillons de 
+100bouleaux et 50hêtres : 
+
+• 
+Calculez `̅a`̅ 
+et `̅a`̅ 
+• 
+Réponse: 
+…………………………………………………………………………………………………… 
+………...………………………………………………………………………………………... 
+…………………………………………………………………………………………...……… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+……………………...…………………………………………………………………………… 
+…………...……………………………………………………………………………………… 
+…...……………………………………………………………………………………………… 
+…………………………………………………………………………………………………… 
+………………………………………………...………………………………………………… 
+……………………………………...…………………………………………………………… 
+……………………………...…………………………………………………………………… 
+…………………………………………………………………………………………………… 
+…………………………………………………………………………...……………………… 
+………………………………………………………………...………………………………… 
+………………………………………………………...………………………………………… 
+…………………………………………………………………………………...……………… 
+………………………………………………………………………...………………………… 
+………………………………………………………………...……………………………… 
+
+[ Page 19 sur 20 ] 
+
+
+5. Synthèse: 
+Nombre d’échantillons 
+Distribution d’échantillonnage 
+de la moyenne 
+Distribution d’échantillonnage 
+V 
+_ 
+= 
+ 
+= 
+√ 
+ 
+Echantillonnagealéatoiresimple 
+Avec remise Sans remise 
+VNc 
+= 
+
+√ 
+2
+_ 
+− 
+= 
+_ 
+− 
+1 
+de la variance 
+Distribution d’échantillonnage 
+de l’écart-type 
+ 
+− 
+1 
+T 
+2 
+− 
+1 
+ 
+Distribution d’échantillonnage 
+de la fréquence 
+X(]V) 
+= 
+(1 
+− 
+)
+Y(]V) 
+= 
+X(]V) 
+= 
+(1 
+− 
+)
+Y(]V) 
+= 
+
+
+Le tableau ci-dessous envisage tous les cas auxquels vous pouvez être confrontés1 : 
+
+Paramètre d'échantillon à 
+contrôler 
+Loi de la 
+population 
+Statistique Loi 
+Moyenne L 
+Normale ou 
+quelconque 
+avec n > 30 
+√ 
+d
+L 
+− 
+e 
+N(0,1) 
+ou 
+~ N(0,1) 
+TVariance Normale 
+( 
+− 
+1)T 
+ 
+f 
+à n-1 d.d.l. 
+Proportion ] 
+n > 50 
+g 
+− 
+
+√ 
+1(1 
+− 
+) 
+~ N(0,1) 
+
+. http://www.iutbayonne.univ-pau.fr/~grau/2A/stat/cadre2.html 
+
+[ Page 20 sur 20 ] 
+
+
